@@ -9,7 +9,7 @@ title: Инструкция для Happ
 
 **1. Загрузка приложения:**
 
-Перейдите в App Store: https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215
+Перейдите в App Store: [https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
 
 Установите приложение "Happ".
 
